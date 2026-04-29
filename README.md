@@ -1,3 +1,7 @@
+## 🚧 Project Status
+
+This project is currently under development.
+
 # 🚀 Redis Virality Engine
 
 A production-ready backend system built using **Spring Boot** and **Redis** that simulates a real-time social media virality engine with strict guardrails to prevent spam and uncontrolled bot activity.
